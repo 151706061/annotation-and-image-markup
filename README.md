@@ -1,3 +1,12 @@
+# NIH Public Archive Repository Disclosure
+
+> The following disclosure is placed here as a mandatory directive from NIH/HHS.  
+> The repository owners may place additional disclosures below this section.
+
+* This repository has been archived and is no longer maintained.
+* The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+* It should not be used in production systems.
+
  Welcome to the Annotation and Image Markup Project!
 ===================================================
 Annotation and image markup  is an Open Source project that provides the functionalities to propose and create a standard means of adding information and knowledge to an image in a clinical environment, so that image content can be easily and automatically searched. 
